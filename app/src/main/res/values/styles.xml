@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.TangoChallenge.TextAppearance">
+        <item name="android:textColor">@color/label</item>
+    </style>
+
+    <style name="Theme.TangoChallenge.TextAppearance.Title">
+        <item name="android:fontFamily">@font/whitney_ssm_medium</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="Theme.TangoChallenge.TextAppearance.Subtitle">
+        <item name="android:fontFamily">@font/whitney_ssm_book</item>
+        <item name="android:textSize">13sp</item>
+    </style>
+
+    <style name="Theme.TangoChallenge.TextAppearance.Subhead">
+        <item name="android:fontFamily">@font/whitney_ssm_medium</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="Theme.TangoChallenge.TextAppearance.Body">
+        <item name="android:fontFamily">@font/whitney_ssm_book</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="Theme.TangoChallenge.TextAppearance.Caption">
+        <item name="android:fontFamily">@font/whitney_ssm_medium</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="systemFill">#191F21</color>
+    <color name="systemFillVariant">#00141E</color>
+    <color name="systemBackground">#13171A</color>
+    <color name="brand">#4BABDF</color>
+    <color name="secondarySystemBackground">#060A0D</color>
+    <color name="label">#F7F7F7</color>
+</resources>
